@@ -1,0 +1,15 @@
+{
+  "name": "Mammamia · Gestão de Compras",
+  "short_name": "Mammamia",
+  "description": "Compras, faturas, vendas por loja, fichas técnicas e food cost.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f2e2b",
+  "theme_color": "#0f2e2b",
+  "lang": "pt-PT",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
